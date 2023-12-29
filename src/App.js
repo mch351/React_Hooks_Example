@@ -6,8 +6,7 @@ import {
     UseLayoutEffectExample,
     UseImperativeHandleExample,
     UseDeferredValueExample,
-    UseTransitionExample,
-    CustomHook
+    UseTransitionExample
 } from "./hooks";
 import Accordion from "./components/Accordion";
 
